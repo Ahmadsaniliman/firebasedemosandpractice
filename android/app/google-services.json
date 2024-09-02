@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631045550589",
+    "project_id": "limanfirebasedemos",
+    "storage_bucket": "limanfirebasedemos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631045550589:android:86b304fdf7fa96bf0ee994",
+        "android_client_info": {
+          "package_name": "example.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSIAT5Ykhr0KWBCFRx0pyk_swtjEsoJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
